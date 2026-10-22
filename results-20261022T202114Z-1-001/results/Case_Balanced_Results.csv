@@ -1,0 +1,3 @@
+method,cases,mean_complete_preservation,mean_omission_rate,mean_weighted_preservation
+Simple Baseline,5,0.3388241427010623,0.4275272856951407,0.4556484285029608
+Structured Prompt,5,0.4143850184781794,0.3830862534611095,0.515649382508535

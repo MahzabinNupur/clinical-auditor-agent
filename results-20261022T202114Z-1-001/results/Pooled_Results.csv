@@ -1,0 +1,3 @@
+method,total_fact_comparisons,present,partial,missing,contradicted,complete_preservation_rate,omission_rate,weighted_preservation_score,evaluation_status
+Simple Baseline,168,53,38,77,0,0.3155,0.4583,0.4286,provisional
+Structured Prompt,168,67,33,68,0,0.3988,0.4048,0.497,provisional
